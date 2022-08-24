@@ -1,0 +1,2 @@
+FLASK_APP=movie_library.__init__
+FLASK_ENV=development
